@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - 5.2.2_fixed_portable
     paths-ignore:
       - '**.md'
     tags:
